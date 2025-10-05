@@ -1,0 +1,7 @@
+size,algorithm,comparisons,swaps,arrayAccesses,timeNs
+10,InsertionSortOptimized,43,24,57,24100
+50,InsertionSortOptimized,461,624,924,195000
+100,InsertionSortOptimized,1145,2366,3086,485300
+500,InsertionSortOptimized,7951,67328,72045,6692400
+1000,InsertionSortOptimized,17901,254298,264765,21451500
+10000,InsertionSortOptimized,234373,24973698,25107717,114826000
